@@ -1,4 +1,4 @@
-# CodeAlpha Intern - 2024
+# CodeAlpha Java Intern - 2024
 
 ## Task 1 - Hotel Reservation System :
 

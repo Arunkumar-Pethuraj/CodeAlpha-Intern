@@ -7,3 +7,16 @@
 https://github.com/Arunkumar-Pethuraj/CodeAlpha-Intern/assets/153414462/d696fa0e-dae9-4922-bacd-54a4df3c0377
 
 <br>
+
+## Task 2 - Student Grade Tracker :
+
+![Screenshot (549)](https://github.com/Arunkumar-Pethuraj/CodeAlpha-Intern/assets/153414462/9e2087da-9f98-486f-b886-f2736e17df22)
+
+https://github.com/Arunkumar-Pethuraj/CodeAlpha-Intern/assets/153414462/3bdf19e6-a386-492f-ad07-c0bf9743d5e7
+
+<br>
+
+## Task 3 - Travel Itinerary Planner :
+
+
+
